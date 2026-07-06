@@ -1,4 +1,4 @@
-#I'm Nithesh
+# I'm Nithesh
 
 💻 Backend-focused MERN Developer  
 🌱 Currently focusing on DSA, Full Stack Development  
